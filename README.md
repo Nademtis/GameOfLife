@@ -1,3 +1,5 @@
+https://nademtis.github.io/GameOfLife/
+
 Features:
 
     standard sim rules for cells
