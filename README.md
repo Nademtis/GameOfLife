@@ -1,4 +1,5 @@
 Features:
-  general rules for cells
-  Kill all button
-  Revive some dead cells (hardcoded to 5%)
+
+    standard sim rules for cells
+    Kill all button
+    Revive some dead cells button (hardcoded to 5%)
